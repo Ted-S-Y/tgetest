@@ -1,0 +1,7 @@
+{
+    "reward_token": "0xcd829b071907B8A4ab73F503E7EadBf801eAD0D1",
+    "mock_token_1": "0x89C8ebFF2f44cE1B40021fa2fE856593a20d49DF",
+    "mock_token_2": "0xcb9cf1E307F3b79df83471332Fe991d16edCe89a",
+    "staking_factory": "0xE559F8C3f1c65D8DC25f531415DD03BD3e945f90",
+    "staking_factory_lp": "0x454B399034e752371046Ab1D7B0A736f125d15E2"
+}
