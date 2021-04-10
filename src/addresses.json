@@ -1,8 +1,8 @@
 {
     "reward_token": "0x5181e3864cCa4d97E208B38c3659ae8E33E358A0",
     "mock_token_1": "0x15d30078357125C9795A2eA4e848CF9076644fFF",
-    "mock_token_2": "0xEfcE5C670c3d414fF13608a90D74f3ca01201519",
-    "staking_factory": "0x1b4e7d2e0b3e66e2ee35c5dc43bea69eba3d0c01",
+    "mock_token_2": "0x1b4e7d2e0b3e66e2ee35c5dc43bea69eba3d0c01",
+    "staking_factory": "0x3Df993bA61B4E94627a5C60095bBE8F0112A0348",
     "staking_factory_lp": "0x44d0291073B1D5e4f665c784500e89ec92b2dCEA"
 }
 
